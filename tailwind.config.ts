@@ -47,6 +47,12 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        quantum: {
+          blue: "hsl(var(--quantum-blue))",
+          purple: "hsl(var(--quantum-purple))",
+          green: "hsl(var(--quantum-green))",
+          cyan: "hsl(var(--quantum-cyan))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
